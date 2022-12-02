@@ -1,0 +1,111 @@
+let portfolioData= [
+    {
+        name: 'Rode Home Page Clone',
+        image: 'rode',
+        source: 'https://github.com/jatin2311/rode-clone" target="_blank',
+        preview: "https://rode-0.netlify.app/" ,
+    },
+    {
+        name: 'Shopify Home Page Clone',
+        image: 'shopify',
+        source: 'https://github.com/jatin2311/shopify-clone" target="_blank',
+        preview: "https://shopify-0.netlify.app/" ,
+    },
+    {
+        name: 'Paytm Home Page Clone',
+        image: 'paytm',
+        source: 'https://github.com/jatin2311/Paytm-clone" target="_blank',
+        preview: "https://paytm-clone-0.netlify.app/" ,
+    },
+    {
+        name: 'Visual-Designer Home Page',
+        image: 'visual',
+        source: 'https://github.com/jatin2311/visual-designer-landing-page" target="_blank',
+        preview: "https://visual-designer11.netlify.app/" ,
+    },
+    {
+        name: 'Business Home Page',
+        image: 'business',
+        source: 'https://github.com/jatin2311/business-landing-page" target="_blank',
+        preview: "https://business-landin.netlify.app/" ,
+    },
+    {
+        name: 'Hosting Home Page ',
+        image: 'hosting',
+        source: 'https://github.com/jatin2311/Hosting-landing-page" target="_blank',
+        preview: "https://hosting-landing.netlify.app/" ,
+    },
+    {
+        name: 'Saas Home Page',
+        image: 'saas',
+        source: 'https://github.com/jatin2311/saas-landing-page" target="_blank',
+        preview: "https://saas-landingp.netlify.app/" ,
+    },
+    {
+        name: 'API Home Page ',
+        image: 'api',
+        source: 'https://github.com/jatin2311/Developer-landing-page" target="_blank',
+        preview: "https://developer-landingp.netlify.app/" ,
+    },
+    {
+        name: 'Street-style Home Page',
+        image: 'street-style',
+        source: 'https://github.com/jatin2311/street-style-landing-page" target="_blank',
+        preview: "https://street-style-landingp.netlify.app/" ,
+    },
+    {
+        name: 'Web-Design home page',
+        image: 'web-design',
+        source: 'https://github.com/jatin2311/Design-landing-page" target="_blank',
+        preview: "https://design-wed.netlify.app/" ,
+    },
+    {
+        name: 'Interior-Design',
+        image: 'interior-design',
+        source: 'https://github.com/jatin2311/interior-designer-landing-page" target="_blank',
+        preview: "https://interior-desgn.netlify.app/" ,
+    },
+    {
+        name: 'Headphone-store',
+        image: 'headphone',
+        source: 'https://github.com/jatin2311/product-landing-page" target="_blank',
+        preview: "https://store-head.netlify.app/" ,
+    },
+    {
+        name: 'Monstera',
+        image: 'monstera',
+        source: 'https://github.com/jatin2311/monsterra-landing-page" target="_blank',
+        preview: "https://monstera-landing.netlify.app/" ,
+    },
+    {
+        name: 'Domain Home page',
+        image: 'crush-competition',
+        source: 'https://github.com/jatin2311/seo-landing-page" target="_blank',
+        preview: "https://domain-landingp.netlify.app/" ,
+    },
+    {
+        name: 'Lets build',
+        image: 'lets-build',
+        source: 'https://github.com/jatin2311/sample-build-landing-page" target="_blank',
+        preview: "https://teach-better.netlify.app/" ,
+    },
+    {
+        name: 'Justice',
+        image: 'law',
+        source: 'https://github.com/jatin2311/Justice-landing-page" target="_blank',
+        preview: "https://justice-landing-p.netlify.app/" ,
+    },
+    {
+        name: 'Restaurant',
+        image: 'restaurant',
+        source: 'https://github.com/jatin2311/restaurant-landing-page" target="_blank',
+        preview: "https://restaurant23.netlify.app/" ,
+    },
+    {
+        name: 'Street',
+        image: 'street',
+        source: 'https://github.com/jatin2311/street-landing-page" target="_blank',
+        preview: "https://street-landing-p.netlify.app/" ,
+    },
+]
+
