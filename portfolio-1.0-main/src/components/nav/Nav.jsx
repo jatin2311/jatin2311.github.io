@@ -6,14 +6,14 @@ import { BiMessageSquareDetail } from "react-icons/bi";
 
 import "./nav.css";
 const Nav = () => {
-  const [activeNav, setActiveNav] = useState("#");
+  const [activeNav, setActiveNav] = useState("/");
 
   return (
     <nav>
       <a
-        href="#"
-        onClick={() => setActiveNav("#")}
-        className={activeNav === "#" ? "active" : ""}
+        href={"/"}
+        onClick={() => setActiveNav("/")}
+        className={activeNav === "/" ? "active" : ""}
       >
         <AiOutlineHome />
       </a>
