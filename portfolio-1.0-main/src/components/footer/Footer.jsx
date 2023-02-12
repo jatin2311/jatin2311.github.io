@@ -7,9 +7,14 @@ import { FaLinkedinIn } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer>
-      <a href={"/"} className="footer__logo">
-        Jatin Agrahari
-      </a>
+      <button
+        onClick={() => {
+          window.document.location.reload();
+        }}
+        className="footer__logo"
+      >
+        JJ
+      </button>
 
       <ul className="permalinks">
         <li>
